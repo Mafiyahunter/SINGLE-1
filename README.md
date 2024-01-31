@@ -32,7 +32,7 @@ ___THIS TOOL IS FREE BRO BUT NEED APPROVAL FOR RUN THIS TOOL.___</br>
 <h2>🔻____SCREENSHOT____🔻 </h2>
 <br>
 <p align="center">
-<img src="https://github.com/Mafiyahunter/MULTI-2/assets/110088114/0a0ad514-8c32-4211-a59d-d786414e1e8b"/>
+<img src="https://github.com/Mafiyahunter/SINGLE-1/assets/110088114/f9dfcc80-94e0-43de-99be-78dfaada4a71"/>
 </p>
 
 <p align="center"> 
